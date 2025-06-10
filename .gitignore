@@ -1,0 +1,26 @@
+# Ignore knowledge base files
+knowledge_base/
+**/knowledge_base/
+*.knowledge_base
+
+# Python virtual environment
+.venv/
+venv/
+env/
+.env/
+
+# ChromaDB files
+chroma_db/
+**/chroma_db/
+*.chroma/
+.chroma/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
