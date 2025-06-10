@@ -3,6 +3,7 @@
 An AI-powered document assistant that uses RAG (Retrieval Augmented Generation) architecture to answer questions about your documents. Simply drop your PDF, DOC, TXT, or other document files into the knowledge base directory, and the Llama2/Ollama/sentence-transformers based AI will analyze them and provide relevant answers to your questions.
 
 First thing to do is to create a directory called knowledge_base and throw some files in there!
+![screenshot-document-ai](https://github.com/user-attachments/assets/82300dc1-cd9e-455a-ab59-703023000b8e)
 
 ## Features
 
